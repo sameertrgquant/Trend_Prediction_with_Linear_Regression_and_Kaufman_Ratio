@@ -1,0 +1,1 @@
+# Trend_Prediction_with_Linear_Regression_and_Kaufman_Ratio
